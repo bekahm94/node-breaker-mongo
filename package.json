@@ -1,0 +1,14 @@
+{
+  "name": "node-breaker-mongo",
+  "version": "1.0.0",
+  "description": "block breaker js game",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing game"
+  },
+  "author": "Rebekah McAllister",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
